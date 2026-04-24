@@ -34,12 +34,8 @@ student-manager/
 
 ## 📸 Kết quả thực hiện
 
-### 1. Menu Quản trị & Danh sách sinh viên (Backend)
-![Admin Dashboard](assets/admin_screenshot.png)
-
-### 2. Giao diện hiển thị thực tế (Frontend)
-![Student List Table](assets/frontend_screenshot.png)
-*(Giao diện được thiết kế với phong cách Indigo Gradient, bảng có hiệu ứng hover và badge phân loại chuyên ngành)*
+![Kết quả hiển thị danh sách sinh viên](assets/danhsachsv.png)
+*(Giao diện danh sách sinh viên với phong cách hiện đại, hỗ trợ phân loại chuyên ngành bằng màu sắc)*
 
 ## 🚀 Hướng dẫn cài đặt
 1. Tải thư mục `student-manager` lên thư mục `wp-content/plugins/`.
