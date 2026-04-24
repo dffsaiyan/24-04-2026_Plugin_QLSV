@@ -34,10 +34,11 @@ student-manager/
 
 ## 📸 Kết quả thực hiện
 
-### 1. Menu Quản trị
+### 1. Menu Quản trị & Danh sách sinh viên (Backend)
 ![Admin Dashboard](assets/admin_screenshot.png)
 
-### 2. Giao diện Danh sách Sinh viên
+### 2. Giao diện hiển thị thực tế (Frontend)
+![Student List Table](assets/frontend_screenshot.png)
 *(Giao diện được thiết kế với phong cách Indigo Gradient, bảng có hiệu ứng hover và badge phân loại chuyên ngành)*
 
 ## 🚀 Hướng dẫn cài đặt
